@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lusiaulia&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lusiaulia&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusiaulia&layout=compact)](https://github.com/lusiaulia/github-readme-stats)
 
